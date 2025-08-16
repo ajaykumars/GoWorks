@@ -1,0 +1,8 @@
+"Name Type","Convention","Example"
+"Variable","mixedCaps","userList,maxRetry"
+"Exported Func","PascalCase","PrintHello,NewServer"
+"Unexported Func","mixedCaps","initConfig,readUser"
+"Constant","MixedCaps","DefaultTimeout"
+"File","lowercase/undersc","server_main.go"
+"Package","lowercase","config,parser"
+"Interface","-er suffix","Reader,Notifier"
